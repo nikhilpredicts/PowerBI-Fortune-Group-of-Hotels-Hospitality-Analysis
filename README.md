@@ -50,6 +50,17 @@ revenue.
 
 
 ## Learnings From this Project:
+- Understanded How the Hospitality Domain works and Domain Knowledge of Hospitality Domain.
 - By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
 - Learnt, how to use bookmarks and selection for different purposes. (Page navigation and clear filter button in the dashboard was achieved using bookmarks and selection. website like page navigation )
 - Tried using color palette and stick with that colors throughout the dashboard.
+
+
+## Some Important Insights From Report:
+1. Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi.
+2. Fortune Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
+3. Fortune Blu has the highest occupancy of 66%
+4. Week 29 recorded the highest revenue among all, which is 139.7 Million
+5. Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
+6. Fortune Group of Hotels lost around 199 Million in cancellation
+7. Elite type rooms has the most booking and as well higher cancellation rate
