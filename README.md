@@ -57,10 +57,13 @@ revenue.
 
 
 ## Some Important Insights From Report:
-1. Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi.
-2. Fortune Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
-3. Fortune Blu has the highest occupancy of 66%
-4. Week 29 recorded the highest revenue among all, which is 139.7 Million
-5. Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
-6. Fortune Group of Hotels lost around 199 Million in cancellation
-7. Elite type rooms has the most booking and as well higher cancellation rate
+1. The Average Daily Rate is not fluctuating according to Data, means they are not using different Pricing Strategies according to Time and Demand.
+2. Implementing Differential Pricing by giving Coupons to Customers on their Own Channel(Platform), to Increase their market share and Revenue.
+3. Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi.
+4. Fortune Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
+5. Fortune Blu has the highest occupancy of 66%
+6. Week 29 recorded the highest revenue among all, which is 139.7 Million
+7. Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
+8. Fortune Group of Hotels lost around 199 Million in cancellation
+9. Elite type rooms has the most booking and as well higher cancellation rate.
+
