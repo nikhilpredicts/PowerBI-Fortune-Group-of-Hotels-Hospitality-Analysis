@@ -42,3 +42,9 @@ revenue.
 ## Information View:
 
 <img width="1993" height="1240" alt="Information Page" src="https://github.com/user-attachments/assets/55a40809-ebdd-4c5e-add2-eee3c86fa67b" />
+
+
+## Tool Tip View:
+
+<img width="2075" height="1036" alt="Tool Tip Page" src="https://github.com/user-attachments/assets/c9a1e254-dd42-4476-adf6-a18ae91b3115" />
+
