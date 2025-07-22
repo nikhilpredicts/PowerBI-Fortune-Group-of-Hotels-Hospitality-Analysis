@@ -67,3 +67,9 @@ revenue.
 8. Fortune Group of Hotels lost around 199 Million in cancellation
 9. Elite type rooms has the most booking and as well higher cancellation rate.
 
+
+## Author
+
+**Nikhil Karaka**  
+
+Thank you for exploring this project!
